@@ -1,0 +1,1 @@
+## Assignment solutions for the course Text Analytics - MSCI 641
